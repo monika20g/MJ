@@ -1,0 +1,9 @@
+	.classpath
+	.gitignore
+	.project
+	.settings/
+	app.log
+
+	target/
+	test-output/
+	
